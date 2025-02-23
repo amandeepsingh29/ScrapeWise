@@ -9,7 +9,7 @@ import time
 import google.generativeai as genai  # Correct import for google-generativeai
 
 # Configure Gemini API
-genai.configure(api_key="AIzaSyD079ZxmJVMT4n7IbwuaDQLxYj25CBnux0")  # Replace with your actual API key
+genai.configure(api_key="YOUR_GEMINI_API_KEY")  # Replace with your actual API key
 
 # Function to scrape website with dynamic content support using Selenium
 def scrape_with_bs4(url):
