@@ -1,7 +1,9 @@
 # ScrapeWise: Streamlit Web Scraper & Q&A with Gemini API
 
 **ScrapeWise** is a **Streamlit web app** that scrapes dynamic website content using **Selenium** and **BeautifulSoup**, then utilizes **Google's Gemini API** to generate summaries and answer user queries based on the scraped content.
-
+<p align="center">
+  <img width="1000" alt="Banner" src="https://github.com/amandeepsingh29/scrapewise/blob/main/wise.png">
+</p>
 ## 🚀 Features
 - Dynamic content scraping with Selenium
 - Extracts relevant data (headings, paragraphs, meta descriptions)
