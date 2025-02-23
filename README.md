@@ -4,6 +4,7 @@
 <p align="center">
   <img width="1000" alt="Wise" src="https://github.com/amandeepsingh29/ScrapeWise/blob/main/Wise.png">
 </p>
+
 ## 🚀 Features
 - Dynamic content scraping with Selenium
 - Extracts relevant data (headings, paragraphs, meta descriptions)
